@@ -1,0 +1,8 @@
+Controls are: 
+click & drag to accelerate particles
+
+z - particle view
+c - toggles camera
+q/Q - toggles smoothing
+s - save frame
+esc - quit
